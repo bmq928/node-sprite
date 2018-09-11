@@ -1,0 +1,4 @@
+.sprite-1 { background-image: url('./images/sprites.png'); background-position: 0 0; width: 960px; height: 543px; }
+.sprite-2 { background-image: url('./images/sprites.png'); background-position: 0 -543px; width: 800px; height: 450px; }
+.sprite-3 { background-image: url('./images/sprites.png'); background-position: 0 -993px; width: 1920px; height: 1080px; }
+.sprite-sprites { background-image: url('./images/sprites.png'); background-position: 0 -2073px; width: 1920px; height: 6219px; }
