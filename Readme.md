@@ -1,0 +1,1 @@
+vd: node app --input ./images --output-css style.css --output-img sprite.png
